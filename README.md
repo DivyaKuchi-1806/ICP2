@@ -1,1 +1,1 @@
-# ICPs-2
+This repository is created to upload the ICPs - 2 information. In this repository i have created two sub folders that are source code and documentation. In source code folder i have placed index.html page,in documentation folder input and output screenshots are available.
